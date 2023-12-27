@@ -11,6 +11,15 @@
 		C2A801232B337A7A009C21C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A801222B337A7A009C21C2 /* ContentView.swift */; };
 		C2A801252B337A7E009C21C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A801242B337A7E009C21C2 /* Assets.xcassets */; };
 		C2A801282B337A7E009C21C2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A801272B337A7E009C21C2 /* Preview Assets.xcassets */; };
+		C2C1138A2B34B9D90000ABA9 /* HotelDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C113892B34B9D90000ABA9 /* HotelDetailView.swift */; };
+		C2C1138C2B36053A0000ABA9 /* GalleryAndTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C1138B2B36053A0000ABA9 /* GalleryAndTextView.swift */; };
+		C2C1138E2B3609EA0000ABA9 /* HotelInformationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C1138D2B3609EA0000ABA9 /* HotelInformationView.swift */; };
+		C2C113902B3626800000ABA9 /* BookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C1138F2B3626800000ABA9 /* BookingView.swift */; };
+		C2C113922B377F050000ABA9 /* PersonalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C113912B377F050000ABA9 /* PersonalData.swift */; };
+		C2C113942B377F470000ABA9 /* PersonDataInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C113932B377F470000ABA9 /* PersonDataInformation.swift */; };
+		C2C113962B3A0F0D0000ABA9 /* FinalScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C113952B3A0F0D0000ABA9 /* FinalScreenView.swift */; };
+		C2C113982B3CA05A0000ABA9 /* CustomNavBarItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C113972B3CA05A0000ABA9 /* CustomNavBarItemView.swift */; };
+		C2C1139B2B3CAFA10000ABA9 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C1139A2B3CAFA10000ABA9 /* GalleryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +28,15 @@
 		C2A801222B337A7A009C21C2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C2A801242B337A7E009C21C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2A801272B337A7E009C21C2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C2C113892B34B9D90000ABA9 /* HotelDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotelDetailView.swift; sourceTree = "<group>"; };
+		C2C1138B2B36053A0000ABA9 /* GalleryAndTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryAndTextView.swift; sourceTree = "<group>"; };
+		C2C1138D2B3609EA0000ABA9 /* HotelInformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotelInformationView.swift; sourceTree = "<group>"; };
+		C2C1138F2B3626800000ABA9 /* BookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingView.swift; sourceTree = "<group>"; };
+		C2C113912B377F050000ABA9 /* PersonalData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalData.swift; sourceTree = "<group>"; };
+		C2C113932B377F470000ABA9 /* PersonDataInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonDataInformation.swift; sourceTree = "<group>"; };
+		C2C113952B3A0F0D0000ABA9 /* FinalScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalScreenView.swift; sourceTree = "<group>"; };
+		C2C113972B3CA05A0000ABA9 /* CustomNavBarItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarItemView.swift; sourceTree = "<group>"; };
+		C2C1139A2B3CAFA10000ABA9 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +71,15 @@
 			children = (
 				C2A801202B337A7A009C21C2 /* HotelBookingApp.swift */,
 				C2A801222B337A7A009C21C2 /* ContentView.swift */,
+				C2C1138F2B3626800000ABA9 /* BookingView.swift */,
+				C2C1139C2B3CAFCC0000ABA9 /* Gallery */,
+				C2C113992B3CAD640000ABA9 /* NavBarButton */,
+				C2C113952B3A0F0D0000ABA9 /* FinalScreenView.swift */,
+				C2C113912B377F050000ABA9 /* PersonalData.swift */,
+				C2C113932B377F470000ABA9 /* PersonDataInformation.swift */,
+				C2C1138D2B3609EA0000ABA9 /* HotelInformationView.swift */,
+				C2C1138B2B36053A0000ABA9 /* GalleryAndTextView.swift */,
+				C2C113892B34B9D90000ABA9 /* HotelDetailView.swift */,
 				C2A801242B337A7E009C21C2 /* Assets.xcassets */,
 				C2A801262B337A7E009C21C2 /* Preview Content */,
 			);
@@ -65,6 +92,22 @@
 				C2A801272B337A7E009C21C2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C2C113992B3CAD640000ABA9 /* NavBarButton */ = {
+			isa = PBXGroup;
+			children = (
+				C2C113972B3CA05A0000ABA9 /* CustomNavBarItemView.swift */,
+			);
+			path = NavBarButton;
+			sourceTree = "<group>";
+		};
+		C2C1139C2B3CAFCC0000ABA9 /* Gallery */ = {
+			isa = PBXGroup;
+			children = (
+				C2C1139A2B3CAFA10000ABA9 /* GalleryView.swift */,
+			);
+			path = Gallery;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +180,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2C113902B3626800000ABA9 /* BookingView.swift in Sources */,
 				C2A801232B337A7A009C21C2 /* ContentView.swift in Sources */,
+				C2C113962B3A0F0D0000ABA9 /* FinalScreenView.swift in Sources */,
+				C2C1138E2B3609EA0000ABA9 /* HotelInformationView.swift in Sources */,
+				C2C113982B3CA05A0000ABA9 /* CustomNavBarItemView.swift in Sources */,
 				C2A801212B337A7A009C21C2 /* HotelBookingApp.swift in Sources */,
+				C2C1138C2B36053A0000ABA9 /* GalleryAndTextView.swift in Sources */,
+				C2C113942B377F470000ABA9 /* PersonDataInformation.swift in Sources */,
+				C2C1139B2B3CAFA10000ABA9 /* GalleryView.swift in Sources */,
+				C2C113922B377F050000ABA9 /* PersonalData.swift in Sources */,
+				C2C1138A2B34B9D90000ABA9 /* HotelDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,8 +330,9 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,9 +340,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Snow.HotelBooking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -307,8 +363,9 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,9 +373,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Snow.HotelBooking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
